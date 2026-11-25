@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The Funniest Honest Appliance Error](https://make.fun/bounty/u-xvader-the-funniest-honest-appliance-error-adec4450).
 
-> ERROR 404: clean laundry not found. The wash finished, but your socks have entered the witness protection program.
+> ERROR 404: clean laundry not found. The wash finished, but your socks entered the witness protection program.
 
 ## Run
 
